@@ -10,7 +10,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiohttp import web
 
 # --- КОНФИГУРАЦИЯ ---
-API_TOKEN = '8447190645:AAGJoE-mSIUoPUnSPJAZV5VYd3dLIoVLd40'
+API_TOKEN = '8185440589:AAGmDK8dqi0ZNUOjWw2-jy1mtKTspDKWO4Y'
 ADMIN_ID = 8692969555 
 
 bot = Bot(token=API_TOKEN)
