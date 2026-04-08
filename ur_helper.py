@@ -11,7 +11,7 @@ from aiohttp import web
 
 # --- КОНФИГУРАЦИЯ ---
 API_TOKEN = '8447190645:AAGJoE-mSIUoPUnSPJAZV5VYd3dLIoVLd40'
-ADMIN_ID = 8239382195 
+ADMIN_ID = 8692969555 
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
